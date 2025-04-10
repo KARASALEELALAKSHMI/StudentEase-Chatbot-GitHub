@@ -5,10 +5,9 @@
 ---
 
 ## 📺 Demo Video
+🎬 [Watch the StudentEase Demo](Output-Recording/StudentEaseOutputRecord.mp4)
 
-[![Watch the StudentEase Demo](Output-Recording\StudentEaseOutputRecord.mp4)
-
-> 🔹 Click the above Link to watch the demo video.
+> 🔹 Click the above link to watch the demo video.
 
 ---
 
