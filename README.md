@@ -5,7 +5,8 @@
 ---
 
 ## 📺 Demo Video
-🎬 [Watch the StudentEase Demo](Output-Recording/StudentEaseOutputRecord.mp4)
+
+🎬 [Watch the StudentEase Demo](https://drive.google.com/file/d/1zoGcVpHPSKy-FlxfkSFcs4A2ctQ_ZMTm/view?usp=sharing)
 
 > 🔹 Click the above link to watch the demo video.
 
